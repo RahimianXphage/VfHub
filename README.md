@@ -11,9 +11,9 @@ In addition, a **single, combined** FASTA file contains **all non‑virulent seq
 
 | Species | Pathogen type | Predicted VFs (species‑specific) | Negative controls (combined file) | Publication status |
 |---------|---------------|----------------------------------|------------------------------------|--------------------|
-| *Erwinia amylovora* | Plant (fire blight) | 15,535 | Included in combined set | *Manuscript under review / not yet published* |
+| *Erwinia amylovora* | Plant (fire blight) | 13,535 | Included in combined set | *Manuscript under review / not yet published* |
 | *Agrobacterium burrii* | Plant (crown gall‑like) | 1,330 | Not included | **Published** – see citation below |
-| **Total (all species)** | – | 16,865 | 125,972* | – |
+| **Total (all species)** | – | 14,865 |
 
 
 Future versions will expand to other plant, animal, and human pathogens.
