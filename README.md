@@ -23,6 +23,6 @@ Future versions will expand to other plant, animal, and human pathogens.
 | Species | Publication | DOI / Status |
 |---------|-------------|---------------|
 | *Agrobacterium burrii* | Published | (https://doi.org/10.1016/j.genrep.2026.102446) |
-| *Erwinia amylovora* | In preparation | (https://doi.org/10.1186/s12866-026-05295-y) |
+| *Erwinia amylovora* | Published | (https://doi.org/10.1186/s12866-026-05295-y) |
 
 Please cite related published articles if this database is useful to you.
